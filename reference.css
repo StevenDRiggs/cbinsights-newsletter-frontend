@@ -2,7 +2,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700);
-
+*/
 .hidden, [hidden], audio:not([controls]), template {
   display: none;
 }
@@ -41,7 +41,7 @@ html {
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
 }
-
+*/
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
@@ -62,7 +62,7 @@ audio:not([controls]) {
 a:active, a:hover {
   outline: 0;
 }
-
+*/
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -173,7 +173,7 @@ textarea {
   font-weight: 400;
   font-style: normal;
 }
-
+*/
 .fa {
   font: normal normal normal 14px/1 FontAwesome;
   font-size: inherit;
